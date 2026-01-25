@@ -1,0 +1,43 @@
+{
+  "name": "code-mode",
+  "version": "1.0.0",
+  "description": "Experiment: Code Execution with MCP for Claude Code",
+  "main": "dist/servers/memory/index.js",
+  "types": "dist/servers/memory/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --experimental-vm-modules dist/test/memory-test.js",
+    "test:executor": "node --experimental-vm-modules dist/test/executor-test.js",
+    "test:all": "npm run test && npm run test:executor",
+    "start:mcp": "node dist/mcp-server/index.js",
+    "clean": "rm -rf dist"
+  },
+  "bin": {
+    "code-executor-mcp": "dist/mcp-server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopperman/claude-code-mode-sandbox.git"
+  },
+  "keywords": [
+    "mcp",
+    "claude",
+    "code-execution",
+    "experiment"
+  ],
+  "author": "Paul Brower",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lopperman/claude-code-mode-sandbox/issues"
+  },
+  "homepage": "https://github.com/lopperman/claude-code-mode-sandbox#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.10",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.3",
+    "zod": "^4.3.6"
+  }
+}

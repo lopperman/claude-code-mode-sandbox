@@ -1,0 +1,51 @@
+{"type":"entity","name":"CodeModeProject","entityType":"Project","observations":["Open source and public repository","Project-specific memory must NOT contain personal information, local paths, or references to information outside this project","All stored memories should be relevant and safe for public visibility"]}
+{"type":"entity","name":"Record_001","entityType":"TestRecord","observations":["count: 0","status: active","category: A"]}
+{"type":"entity","name":"Record_002","entityType":"TestRecord","observations":["count: 0","status: active","category: B","timed_test: iteration_1"]}
+{"type":"entity","name":"Record_003","entityType":"TestRecord","observations":["count: 0","status: inactive","category: A"]}
+{"type":"entity","name":"Record_004","entityType":"TestRecord","observations":["count: 0","status: active","category: C"]}
+{"type":"entity","name":"Record_005","entityType":"TestRecord","observations":["count: 0","status: inactive","category: B"]}
+{"type":"entity","name":"Record_006","entityType":"TestRecord","observations":["count: 0","status: active","category: A"]}
+{"type":"entity","name":"Record_007","entityType":"TestRecord","observations":["count: 0","status: active","category: C","count: 1"]}
+{"type":"entity","name":"Record_008","entityType":"TestRecord","observations":["count: 0","status: inactive","category: B"]}
+{"type":"entity","name":"Record_009","entityType":"TestRecord","observations":["count: 0","status: active","category: A"]}
+{"type":"entity","name":"Record_010","entityType":"TestRecord","observations":["count: 0","status: inactive","category: C"]}
+{"type":"entity","name":"Record_011","entityType":"TestRecord","observations":["count: 0","status: active","category: B"]}
+{"type":"entity","name":"Record_012","entityType":"TestRecord","observations":["count: 0","status: active","category: A"]}
+{"type":"entity","name":"Record_013","entityType":"TestRecord","observations":["count: 0","status: inactive","category: C"]}
+{"type":"entity","name":"Record_014","entityType":"TestRecord","observations":["count: 0","status: active","category: B"]}
+{"type":"entity","name":"Record_015","entityType":"TestRecord","observations":["count: 0","status: inactive","category: A","count: 1"]}
+{"type":"entity","name":"Record_016","entityType":"TestRecord","observations":["count: 0","status: active","category: C"]}
+{"type":"entity","name":"Record_017","entityType":"TestRecord","observations":["count: 0","status: active","category: A"]}
+{"type":"entity","name":"Record_018","entityType":"TestRecord","observations":["count: 0","status: inactive","category: B","timed_test: iteration_2"]}
+{"type":"entity","name":"Record_019","entityType":"TestRecord","observations":["count: 0","status: active","category: C"]}
+{"type":"entity","name":"Record_020","entityType":"TestRecord","observations":["count: 0","status: inactive","category: A"]}
+{"type":"entity","name":"Record_021","entityType":"TestRecord","observations":["count: 0","status: active","category: B"]}
+{"type":"entity","name":"Record_022","entityType":"TestRecord","observations":["count: 0","status: active","category: C"]}
+{"type":"entity","name":"Record_023","entityType":"TestRecord","observations":["count: 0","status: inactive","category: A","count: 1"]}
+{"type":"entity","name":"Record_024","entityType":"TestRecord","observations":["count: 0","status: active","category: B"]}
+{"type":"entity","name":"Record_025","entityType":"TestRecord","observations":["count: 0","status: inactive","category: C"]}
+{"type":"entity","name":"Record_026","entityType":"TestRecord","observations":["count: 0","status: active","category: A"]}
+{"type":"entity","name":"Record_027","entityType":"TestRecord","observations":["count: 0","status: active","category: B","timed_test: iteration_5"]}
+{"type":"entity","name":"Record_028","entityType":"TestRecord","observations":["count: 0","status: inactive","category: C"]}
+{"type":"entity","name":"Record_029","entityType":"TestRecord","observations":["count: 0","status: active","category: A"]}
+{"type":"entity","name":"Record_030","entityType":"TestRecord","observations":["count: 0","status: inactive","category: B"]}
+{"type":"entity","name":"Record_031","entityType":"TestRecord","observations":["count: 0","status: active","category: C"]}
+{"type":"entity","name":"Record_032","entityType":"TestRecord","observations":["count: 0","status: active","category: A"]}
+{"type":"entity","name":"Record_033","entityType":"TestRecord","observations":["count: 0","status: inactive","category: B","count: 1"]}
+{"type":"entity","name":"Record_034","entityType":"TestRecord","observations":["count: 0","status: active","category: C"]}
+{"type":"entity","name":"Record_035","entityType":"TestRecord","observations":["count: 0","status: inactive","category: A","timed_test: iteration_3"]}
+{"type":"entity","name":"Record_036","entityType":"TestRecord","observations":["count: 0","status: active","category: B"]}
+{"type":"entity","name":"Record_037","entityType":"TestRecord","observations":["count: 0","status: active","category: C"]}
+{"type":"entity","name":"Record_038","entityType":"TestRecord","observations":["count: 0","status: inactive","category: A"]}
+{"type":"entity","name":"Record_039","entityType":"TestRecord","observations":["count: 0","status: active","category: B"]}
+{"type":"entity","name":"Record_040","entityType":"TestRecord","observations":["count: 0","status: inactive","category: C"]}
+{"type":"entity","name":"Record_041","entityType":"TestRecord","observations":["count: 0","status: active","category: A","count: 1"]}
+{"type":"entity","name":"Record_042","entityType":"TestRecord","observations":["count: 0","status: active","category: B"]}
+{"type":"entity","name":"Record_043","entityType":"TestRecord","observations":["count: 0","status: inactive","category: C"]}
+{"type":"entity","name":"Record_044","entityType":"TestRecord","observations":["count: 0","status: active","category: A","timed_test: iteration_4"]}
+{"type":"entity","name":"Record_045","entityType":"TestRecord","observations":["count: 0","status: inactive","category: B"]}
+{"type":"entity","name":"Record_046","entityType":"TestRecord","observations":["count: 0","status: active","category: C"]}
+{"type":"entity","name":"Record_047","entityType":"TestRecord","observations":["count: 0","status: active","category: A"]}
+{"type":"entity","name":"Record_048","entityType":"TestRecord","observations":["count: 0","status: inactive","category: B"]}
+{"type":"entity","name":"Record_049","entityType":"TestRecord","observations":["count: 0","status: active","category: C"]}
+{"type":"entity","name":"Record_050","entityType":"TestRecord","observations":["count: 0","status: inactive","category: A"]}

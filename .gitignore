@@ -70,6 +70,9 @@ out/
 *.sh.log
 *.bak
 
+# Project-specific
+CLAUDE.md
+
 # Misc
 *.local
 *.tmp

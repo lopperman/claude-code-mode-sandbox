@@ -1,5 +1,7 @@
 # Code Execution with MCP: Concepts & Experimentation Guide
 
+*Created by Paul Brower on 2026-01-24 11:59 AM*
+
 *Based on [Anthropic Engineering: Code Execution with MCP](https://www.anthropic.com/engineering/code-execution-with-mcp)*
 
 ---

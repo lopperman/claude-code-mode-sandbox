@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "code_executor": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["dist/mcp-server/index.js"],
+      "cwd": "/path/to/code-mode"
+    }
+  }
+}
